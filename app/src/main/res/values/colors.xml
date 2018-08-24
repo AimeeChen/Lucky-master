@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--basic title-->
+    <color name="color_title_background">#FE897B</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--摇一摇-->
+    <color name="color_gray_c1c1c1">#C1C1C1</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_single_willingness"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/line_gray_bg"
+    android:gravity="center_vertical"
+    android:divider="@mipmap/vertical_line"
+    android:showDividers="middle"
+    android:layout_marginTop="@dimen/padding_small">
+
+    <EditText
+        style="@style/TextNormal"
+        android:id="@+id/et_willingness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@null"
+        android:padding="@dimen/padding_small"
+        android:imeOptions="actionNext"/>
+
+    <TextView
+        style="@style/TextNormal"
+        android:id="@+id/tv_del_willingness"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:padding="@dimen/padding_small"
+        android:text="@string/str_delete"
+        android:layout_weight="0"
+        android:gravity="center"/>
+</LinearLayout>

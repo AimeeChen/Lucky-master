@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--basic title-->
+    <dimen name="title_height">48dp</dimen>
+
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_normal">20dp</dimen>
+
+    <dimen name="text_size_large">20dp</dimen>
+    <dimen name="text_size_normal">16dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lucky</string>
+
+    <!--MainActivity-->
+    <string name="str_main_title">Lucky</string>
+
+    <!--SensorActivity-->
+    <string name="str_shake">摇一摇</string>
+    <string name="str_shake_result">结果：%d</string>
+    <string name="str_willingness_list">意愿单</string>
+    <string name="str_add">增加</string>
+    <string name="str_delete">删除</string>
+    <string name="str_shake_instruction">请先填写意愿单，再摇一摇可随机选出意愿</string>
+</resources>
